@@ -71,6 +71,8 @@ This repo is the raw code only. The guides explain everything.
 | Parallelization | Git worktrees, cascade method, when to scale instances |
 | Subagent Orchestration | The context problem, iterative retrieval pattern |
 
+Looking for the TL;DR? **[The Game Changers Guide](./the-game-changers-guide.md)** distills the 10 features with the highest practical impact.
+
 ---
 
 ## What's New
