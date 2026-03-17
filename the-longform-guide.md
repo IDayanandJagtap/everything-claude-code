@@ -352,3 +352,7 @@ alias q='cd ~/Desktop/projects'
 ---
 
 *Everything covered in both guides is available on GitHub at [everything-claude-code](https://github.com/affaan-m/everything-claude-code)*
+
+---
+
+**See also:** [The Game Changers Guide](./the-game-changers-guide.md) — the 10 highest-impact features distilled into one place.
